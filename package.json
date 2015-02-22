@@ -1,0 +1,26 @@
+{
+  "name": "hospitatie",
+  "version": "1.0.0",
+  "description": "hospitatie",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_ENV=test node test | colortape",
+    "test-cov": "NODE_ENV=test istanbul cover test.js",
+    "lint": "eslint ."
+  },
+  "repository": "yoshuawuyts/hospitatie",
+  "keywords": [],
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "colortape": "^0.1.1",
+    "eslint": "^0.15.0",
+    "istanbul": "^0.3.6",
+    "tape": "^3.5.0"
+  },
+  "files": [
+    "LICENSE",
+    "index.js",
+    "README.md"
+  ]
+}
