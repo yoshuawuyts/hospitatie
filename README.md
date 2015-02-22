@@ -13,10 +13,5 @@ $ npm install hospitatie
 
 ```
 
-## API
-```js
-
-```
-
 ## License
 [MIT](https://tldrlegal.com/license/mit-license)
